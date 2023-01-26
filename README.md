@@ -16,7 +16,7 @@
 
 ___
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sammed-sankonatti&label=Profile%20visits&color=0e75b6&style=flat-square" alt="sammed-sankonatti" width="120" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samsquareed&label=Profile%20visits&color=0e75b6&style=flat-square" alt="sammed-sankonatti" width="120" /> </p>
 
  <!--
 ___
